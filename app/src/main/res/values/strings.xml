@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+
+    <!-- CharacterList -->
+    <string name="characterList">Characters</string>
+    <string name="loading_characterList">Loading character list</string>
+    <string name="search_character">Search for a character</string>
+
+    <!-- Episodes -->
+    <string name="loading_episodes">Loading episodes</string>
+    <string name="episodes">Episodes</string>
+    <string name="season_number">Season No.</string>
+
+    <!-- Locations -->
+    <string name="loading_locations">Loading locations</string>
+    <string name="locations">Locations</string>
+
+    <!-- Status -->
+    <string name="status_alive">Alive</string>
+    <string name="status_dead">Dead</string>
+    <string name="status_unknown">Unknown</string>
+
+    <!-- Gender -->
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_unknown">Unknown</string>
+    <string name="gender_genderless">Genderless</string>
+
+    <!-- Errors -->
+    <string name="error_occured">An error occurred</string>
+    <string name="error_network">Network error, please check your internet connection and try again</string>
+    <string name="error_character_not_found">Character not found</string>
+    <string name="error_occured_code">An error occurred (code %1$d)</string>
+</resources>
